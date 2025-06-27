@@ -1,24 +1,120 @@
-# 💫 About Me:
-👋 Hi there, I'm Muhammad Shaheer Malik<br>I'm a Software Engineer currently in my Final Year at COMSATS Islamabad. With a solid foundation in programming and real-world development, I specialize in:<br><br>🌐 Front-End Development using React.js, Next.js, JavaScript, and TypeScript<br>🛠️ Back-End Development with Node.js, Express.js, and MongoDB<br>📱 Mobile App Development using Flutter<br>💻 Proficient in multiple languages: Python, Java, C++, C<br>🧠 Passionate about UI/UX Design (Figma), Software Architecture, and Test Automation (JUnit, Selenium)<br><br>🔍 Additional Skills:<br>🚀 SEO & Google Analytics for performance-driven web experiences<br>🧩 WordPress Development: Elementor, WooCommerce, Yoast SEO<br>🧪 Familiar with Agile methodologies, Git/GitHub, Docker, and AWS basics<br><br>📫 Let's Collaborate!<br>I love contributing to open-source, building impactful products, and constantly learning. Feel free to connect if you're working on something exciting or want to collaborate!<br><br>🔗 Portfolio: [shaheer-portfolio-omega.vercel.app](https://shaheer-portfolio-omega.vercel.app/)<br>💼 LinkedIn: [linkedin.com/in/malik-shaheer03](https://www.linkedin.com/in/malik-shaheer03/)
+# 💻 Muhammad Shaheer Malik — Front-End | MERN Stack | React.js | Next.js 🚀
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/malik_shaheer03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malik-shaheer03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaheermalik03@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=malik-shaheer03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=malik-shaheer03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=malik-shaheer03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=malik-shaheer03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🔍 *Final Year Software Engineering Student @ COMSATS Islamabad*  
+🧠 *Full-Stack Developer | React.js • Next.js • Node.js • Python • Java*  
+💡 *Turning Ideas into Scalable, User-Centric Products*
 
 ---
-[![](https://visitcount.itsvg.in/api?id=malik-shaheer03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+Hi! I'm **Muhammad Shaheer Malik**, a **Final Year Software Engineering Student** at COMSATS Islamabad and a **Software Developer in Python and Java**. I specialize in creating robust web and mobile applications with an eye for clean UI and scalable architecture.
+
+✨ Passionate about:
+- 🌐 **Front-End Development** using React.js, Next.js, JavaScript, and TypeScript  
+- 🛠️ **Back-End Development** with Node.js, Express.js, MongoDB  
+- 📱 **Mobile App Development** using Flutter  
+- 💻 **Software Development** in Python, Java, C++, and C  
+- 🔐 Networking & Security (CCNA Certified)  
+- 🎨 UI/UX Design with Figma, and WordPress  
+- ☁️ Cloud & DevOps basics with AWS, GitHub Actions, Docker  
+- 🧪 Test Automation with JUnit and Selenium
+
+I'm driven by impactful learning, open-source contributions, and solving real-world problems through tech.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🖥️ Front-End
+`React.js` • `Next.js` • `JavaScript` • `TypeScript` • `HTML5` • `CSS3` • `Tailwind CSS` • `Material UI`
+
+### 🔧 Back-End
+`Node.js` • `Express.js` • `MongoDB` • `Firebase` • `RESTful APIs`
+
+### 💽 Programming Languages
+`Python` • `Java` • `C++` • `C` • `JavaFX`
+
+### 📱 Mobile Development
+`Flutter` • `Dart`
+
+### ⚙️ DevOps & Tools
+`Git` • `GitHub` • `Docker` • `Jenkins` • `AWS (Basics)` • `Nginx`
+
+### 🎨 UI/UX & CMS
+`Figma` • `WordPress` • `Elementor` • `WooCommerce` • `Yoast SEO`
+
+### 📈 Others
+`Jira` • `Trello` • `Postman` • `Agile/Scrum` • `Google Analytics`
+
+---
+
+## 🔥 Featured Projects
+
+### 🔗 [Career Guidance System](https://github.com/malik-shaheer03/career-guidance-system)
+> A smart recommendation platform that assists students in selecting optimal career paths based on interests and aptitude.  
+**Tech Used:** Python, Machine Learning, Streamlit, Pandas, Scikit-learn
+
+---
+
+### 🔗 [Lumina – AI-Powered Study Assistant](https://github.com/malik-shaheer03/Lumina)
+> A smart AI-based study assistant that helps students schedule, revise, and prepare smarter for exams using LLM prompts.  
+**Tech Used:** React.js, Node.js, Express.js, MongoDB, OpenAI API
+
+---
+
+## 📚 Certifications & Credentials
+
+🎓 **Google IT Automation with Python** — Credential ID: `QL9RAR5DHU80`  
+📌 Skills: Python, Git & GitHub, AWS basics, OOP, DSA
+
+🎓 **IBM Front-End Developer Specialization** — Credential ID: `QBGYVL3QTFSB`  
+📌 Skills: HTML, CSS, JavaScript, React.js, Next.js, Node.js, Tailwind CSS
+
+🎓 **HTML, CSS, and JavaScript for Web Developers – Johns Hopkins University** — Credential ID: `LOA280ABUDQB`  
+📌 Skills: Responsive Design, JavaScript ES6, DOM, Web APIs
+
+🎓 **Cisco Certified Network Associate Security (CCNA)**  
+📌 Skills: Network Security, Firewalls, VPNs, Cisco IOS
+
+---
+
+## 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://shaheer-portfolio-omega.vercel.app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-shaheer03)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malik-shaheer03)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaheermalik03@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=malik-shaheer03&theme=radical&show_icons=true&hide_border=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=malik-shaheer03&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=malik-shaheer03&layout=compact&theme=radical&hide_border=false)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=malik-shaheer03&theme=radical&margin-w=10&no-frame=false)
+
+---
+
+## 💬 Quote I Live By
+
+> *“Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.” – Albert Schweitzer*
+
+---
+
+## 📈 Visitor Count
+
+[![](https://visitcount.itsvg.in/api?id=malik-shaheer03&label=Visitors&icon=5&color=6)](https://visitcount.itsvg.in)
+
+---
+
+> 🚀 *Open to internships, freelance work, and collaboration on innovative projects.*  
+⭐ *Explore my repositories, star your favorites, and let’s connect!*
+
+<!-- Proudly crafted by Muhammad Shaheer Malik -->
